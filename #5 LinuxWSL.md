@@ -16,12 +16,13 @@
 
 ![](https://wx4.sinaimg.cn/mw690/006d1MnPly1gjln1ip9zfj311z0u0aea.jpg)
 
-***3.下载和安装WSL2* **
+***3.下载和安装WSL2***
 
 ![](https://wx1.sinaimg.cn/mw690/006d1MnPly1gjln1d8vynj30ri0le75c.jpg)
 
 ## 附加的
 ![](https://wx3.sinaimg.cn/mw690/006d1MnPly1gjlp3tgzp7j30f904zgll.jpg)
+*(这应该是连上了吧）*
 
 
 
